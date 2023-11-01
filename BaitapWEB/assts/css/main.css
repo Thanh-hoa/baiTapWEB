@@ -1,0 +1,102 @@
+*{ /*khử cái khoảng cách lúc đầu*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.generality{
+    width: 1520px;
+    height: auto;
+}
+ .head{
+    width: 1520px;
+    height: 70px;
+    background-color: #FCCE06;
+    position: fixed;
+ }
+.head-firt{
+    display: flex;
+    list-style: none;
+    justify-content:space-around;
+    text-align: center;
+}
+.Input{
+    width:565px;
+    height: 328px;
+    background-color:#ffff;
+    border: solid 1px white;
+    border-radius: 10px;
+}
+.Input{
+    position: absolute;
+    top:74px;
+    left:160px;
+    font-size: 25px;
+  
+}
+.textInput1{
+    font-size: 25px;
+    margin: 10px;
+    position: relative;
+    top: 47px;
+    left: 26px;
+}
+.textInput2{
+    margin: 10px;
+    position: relative;
+    top: 47px;
+    left: 26px;
+}
+.textInput3{
+    position: relative;
+    top: 80px;
+    left: 26px;
+}
+.fa-solid{
+  font-size: 15px;
+  color: gray;
+  position: relative;
+  left: 30px; 
+}
+
+.textInput3 input{
+    width: 490px;
+    height: 42px;
+    border-radius: 5px;
+}
+
+
+.textInput2_1{
+    font-size: 27px;
+    font-weight: bold;
+}
+#InputEnd{
+    display:flex;
+    list-style: none;
+    justify-content: space-around;
+    font-size: 20px;
+    position: relative;
+    top:120px;
+}
+#InputEnd1{
+    width: 40px;
+    height: 21px;
+    font-size: 15px;
+    text-align: center;
+    color: aliceblue;
+    background-color: red;
+    border-radius: 10px;
+}
+#InputEnd2{
+    color:#1B6DE8;
+}
+.head-firt li{
+    align-items: center;
+}
+.conter1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.conter2{
+    display: flex;
+    justify-content: space-around;
+}
