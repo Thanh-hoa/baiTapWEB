@@ -1,0 +1,257 @@
+.st-home{
+    width: auto;
+    height: 1300px;
+   
+}
+.head{
+    width: 1511px;
+    height: 460px;
+    background: #FBCE1B;
+    position: relative;
+    
+  
+}
+.st-home #a{
+    font-size: 40px;
+    font-weight: 400;
+    position: absolute;
+    left: 430px;
+    top: 210px;
+
+    
+}
+
+.st-home-info{
+    width: 1510px;
+    height: 550px;
+    background-image: url(https://vieclam.thegioididong.com/img/web/bgvieclam.png) ;
+    background-size: 1200px;
+}
+.tongquat{
+    display: flex;
+}
+.cauhoi{
+    width:190px;
+    height:104px ;
+    display: block;
+    border: 0.5px solid #458FCD;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    line-height: 30px;
+    background-color: #faf8f8;
+    position: relative;
+    left: 570px;
+    top: -80px;
+}
+.cauhoi .fas{
+    padding-top: 15px;
+    color:#458FCD;
+    font-size: 30px;
+}
+.Chat .fab{
+    padding-top: 15px;
+    color: #458FCD;
+    font-size: 30px;
+}
+.Chat{
+    width:190px;
+    height:104px ;
+    display: block;
+    border: 0.5px solid #458FCD;
+    align-items: center;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: #faf8f8;
+    position: relative;
+    left: 600px;
+    top: -80px;
+}
+.st-home-info{
+    text-align: center;
+    font-size: 25px; 
+}
+.st-home-info ul {
+    margin-top: 55px;
+}
+.st-home-info li{
+    max-width: 1024px;
+    margin: auto;
+    width: 825px;
+    height: 65px;
+    background-color: #EEF4FF;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+.st-home-info span{
+    font-weight: 600;
+    position: absolute;
+    left: 50px;
+    top: 18px;
+}
+.st-home-info .fas{
+    position: absolute;
+    right: 14px;
+    top: 18px;
+    color: #458FCD;
+}
+.item{
+    z-index: 10;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.itemAn{
+    width: 824px;
+    height: auto;
+    color: rgb(10, 10, 10);
+    z-index: 100;
+    position: absolute; 
+    float: left;
+}
+.itemAn li{
+    margin-bottom: 0px ;
+    border-bottom:0.5px solid gray;
+    line-height: 55px;
+    z-index: 100;
+    font-size: 17px;
+    position: relative;
+}
+.itemAn p{
+    color: black;
+    float: left;
+    margin-left: 65px;
+}
+.itemAn .fas{
+   position: absolute;
+   left: -720px;
+}
+
+ /* .item2{
+    z-index: 10;
+    position: relative;
+    top: 0;
+    left: 0;
+} */
+/* .itemAn2{
+    width: 824px;
+    height: auto;
+    color: rgb(10, 10, 10);
+    z-index: 100;
+    position: absolute; 
+    float: left;
+}
+.itemAn2 li{
+    margin-bottom: 0px ;
+    border-bottom:0.5px solid gray;
+    line-height: 55px;
+    z-index: 100;
+    font-size: 17px;
+    position: relative;
+}
+.itemAn2 p{
+    color: black;
+    float: left;
+    margin-left: 65px;
+}
+.itemAn2 .fas{
+   position: absolute;
+   left: -720px;
+}  */
+
+.item3{
+    z-index: 10;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.itemAn3{
+    width: 824px;
+    height: auto;
+    color: rgb(10, 10, 10);
+    z-index: 100;
+    position: absolute; 
+    float: left;
+}
+.itemAn3 li{
+    margin-bottom: 0px ;
+    border-bottom:0.5px solid gray;
+    line-height: 55px;
+    z-index: 100;
+    font-size: 17px;
+    position: relative;
+}
+.itemAn3 p{
+    color: black;
+    float: left;
+    margin-left: 65px;
+}
+.itemAn3 .fas{
+   position: absolute;
+   left: -720px;
+}
+
+.item4{
+    z-index: 10;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.itemAn4{
+    width: 824px;
+    height: auto;
+    color: rgb(10, 10, 10);
+    z-index: 100;
+    position: absolute; 
+    float: left;
+}
+.itemAn4 li{
+    margin-bottom: 0px ;
+    border-bottom:0.5px solid gray;
+    line-height: 55px;
+    z-index: 100;
+    font-size: 17px;
+    position: relative;
+}
+.itemAn4 p{
+    color: black;
+    float: left;
+    margin-left: 65px;
+}
+.itemAn4 .fas{
+   position: absolute;
+   left: -720px;
+}
+.item5{
+    z-index: 10;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.itemAn5{
+    width: 824px;
+    height: auto;
+    color: rgb(10, 10, 10);
+    z-index: 100;
+    position: absolute; 
+    float: left;
+}
+.itemAn5 li{
+    margin-bottom: 0px ;
+    border-bottom:0.5px solid gray;
+    line-height: 55px;
+    z-index: 100;
+    font-size: 17px;
+    position: relative;
+}
+.itemAn5 p{
+    color: black;
+    float: left;
+    margin-left: 65px;
+}
+.itemAn5 .fas{
+   position: absolute;
+   left: -720px;
+}

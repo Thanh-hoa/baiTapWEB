@@ -1,0 +1,264 @@
+.tongquat{
+    width: auto;
+    max-width: 1048px;
+    margin: auto;
+    display: flex;
+    margin-left: 140px;
+    position: relative;
+    height: 4400px;
+
+}
+.tongquat-title{
+    position: relative;
+    top: 90px;
+}
+.tongquat-title .fas{
+    font-size: 10px;
+}
+.tongquat-title a{
+    color: gray;
+}
+.tongquat-title sapan{
+    font-size: 19px;
+    color:#0088F2               ;
+}
+.tongquat-luachon{
+    position: absolute;
+    top: 150px;
+}
+.tongquat-luachon ul{
+    display: flex;
+    justify-content: space-between ;
+}
+.tongquat-luachon h2{
+    font-size: 20px;
+    padding-right: 30px;
+}
+.tongquat-luachon-color{
+    color: #0088F2;
+    border-bottom: 4px solid #0088F2;
+    padding-bottom:10px ;
+    
+}
+.blog-left{
+    position: relative;
+    top: 230px;
+    left: -180px;
+}
+.content-lift li{
+    width: 792px;
+    height: 200px;
+    border-bottom: 0.5px  solid grey;
+    padding-top: 20px;
+    
+}
+.content-lift a{
+    margin-bottom: 30px;
+    display: flex;
+}
+img{
+    border-radius: 10px;
+}
+.content-lift-item{
+    margin-left: 20px;
+}
+.content-lift-item h3{
+    color: black;
+}
+.content-lift-item p{
+    margin-top: 20px;
+    color:#0088F2;
+}
+.content-lift-item span{
+    color: gray;
+}
+.xemthem{
+    width: 320px;
+    height: 48px;
+    font-weight: 600;
+    background: #0088F2;
+    color: white;
+    text-align: center;
+    align-items: center;
+    line-height: 50px;
+    margin-top: 60px;
+    margin-left: 240px;
+}
+.content-lift-itemAn{
+    display: none;
+}
+.blog-right{
+    position: fixed;
+    top: 200px;
+    right: 110px;
+}
+.blog-right h4{
+    margin-bottom: 20px;
+}
+.blog-right-item a{
+    display: flex;
+    line-height: 20px;
+}
+.blog-right-item li{
+    margin-top: 35px;
+    border-bottom:0.5px solid grey ;
+}
+.item4 #content-item2{
+    position: relative;
+    left: 15px;
+} 
+ .item5 #content-item2{
+    position: relative;
+    left: 50px;
+ 
+}
+
+.blog-right-item{
+    width: 395px;
+    height: 450px;
+    border: 0.5px  solid grey;
+}
+.blog-right-item{
+    border-top: #0088F2 solid 3.5px;
+}
+#content-item1 h3{
+    font-weight: 500;
+    font-size: 15px;
+    color: rgb(41, 40, 40);
+    margin-top: -32px;
+    margin-left: 10px;
+    line-height: 15px;
+}
+#content-item1 p{
+    font-size: 13px;
+    color: gray;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#content-item2 p{
+    color: black;
+    position: relative;
+    top:-30px;
+    right: -80px;
+    
+
+    
+  
+}
+#content-item2 span{
+    font-weight: 550;
+    color: #0091ff ;
+    font-size: 14px;
+    position: relative;
+    top: -40px;
+    right: -70px;
+  
+}
+
+
+
+
+
+
+/* 
+
+footer{
+    display: block;
+    min-width: 1024px;
+    position: absolute;
+    bottom: 100%;
+    background: #202020;
+    height: 950px;
+   
+ }
+ 
+ .bgfooter{
+     color: white;
+     max-width: 1200px;
+     min-width: 1024px;
+     margin: auto;
+     display: flex;
+     justify-content: space-between;
+     margin-top: 20px;
+     z-index: 10;
+     border-bottom: 0.5px solid rgb(64, 62, 62) ;
+     padding-bottom: 30px; 
+    
+ }
+ .bgfooter a {
+     color:gray;
+ }
+ 
+ .address1{
+     margin-top: 50px;
+     line-height: 33px;
+ }
+ .address1 h3 {
+     color: yellow;
+ }
+ .address1 a{
+ 
+     color: yellow;
+ }
+ .address1 #logo-address{
+     width: 50px;
+     height: 50px;
+     z-index: 100;
+ }
+ .address1 p{
+     color: gray;
+ }
+ .address1 .office{
+     font-weight: bold;
+     color:#FAFAFA;
+ }
+  
+ .address2{
+     margin-top: 50px;
+     line-height: 33px;
+ }
+ 
+ .address3{
+     margin-top: 50px;
+     line-height: 33px;
+ }
+ .chainLogo{
+     padding-top: 17px;
+     max-width: 1024px;
+     margin: auto;
+     justify-content: space-around;
+     align-items: center;
+     margin-left: 275px;
+ }
+ .chainLogo img{
+     width: 183px;
+     height: auto;
+ 
+ }
+ .chainLogo .logo-2{
+     padding-top: 10px;
+     margin-left: 187px;
+ }
+ .chainLogo p{
+     color: gray;
+     margin-top: 30px;
+     position: relative;
+    left: 350px;
+ }
+ .logo-icon{
+     display: flex;
+     font-size: 40px;
+     align-items: center;
+ }
+ .logo-icon sapn{
+     padding: 10px;
+     font-size: 15px;
+     position: relative;
+     top: -23px;
+     left: -17px;
+   
+ }
+ .chainLogo span{
+     color: gray;
+     margin-left: 320px;
+ } */
