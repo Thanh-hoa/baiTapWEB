@@ -359,7 +359,12 @@ input{
     margin-bottom: 50px;
     border-bottom: 1px solid black;
 }
-.itemAn{
+.itemAn1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;  
+}
+.itemAn2{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;  
@@ -369,6 +374,16 @@ input{
 }
 
 .loadmore-care-link .fas{
+    position: relative;
+    top: 2px;
+    left: 10px;
+}
+.loadmore-care-link1 .fas{
+    position: relative;
+    top: 2px;
+    left: 10px;
+}
+.loadmore-care-link2 .fas{
     position: relative;
     top: 2px;
     left: 10px;
@@ -418,6 +433,16 @@ input{
     color: white;
     font-size: 18px;
 }
+.loadmore-care-link1:hover{
+    background: grey;
+    color: white;
+    font-size: 18px;
+}
+.loadmore-care-link2:hover{
+    background: grey;
+    color: white;
+    font-size: 18px;
+}
 
 .loadmore-care-link {
     width: 340px;
@@ -434,6 +459,39 @@ input{
      margin: auto;
      line-height: 18px;
      margin-top: 15px;
+}
+.loadmore-care-link1 {
+    width: 340px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #ebf7f1 solid 1px;
+     background-color: rgb(255 255 255 / 80%);
+     border-radius: 1px;
+     font-size: 15px;
+     color: #000;
+     cursor: pointer;
+     margin: auto;
+     line-height: 18px;
+     margin-top: 15px;
+}
+.loadmore-care-link2 {
+    width: 340px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #ebf7f1 solid 1px;
+     background-color: rgb(255 255 255 / 80%);
+     border-radius: 1px;
+     font-size: 15px;
+     color: #000;
+     cursor: pointer;
+     margin: auto;
+     line-height: 18px;
+     margin-top: 25px;
+     margin-bottom: 55px;
 }
 
 .fiter-1{
